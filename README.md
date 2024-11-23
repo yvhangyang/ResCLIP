@@ -104,6 +104,4 @@ If ResCLIP is helpful for your research, please cite the following paper:
 
 ## Acknowledgment
 
-
-
-This project is based on [SAM](https://github.com/facebookresearch/segment-anything), [ProxyCLIP](https://github.com/mc-lan/ProxyCLIP), [SCLIP](https://github.com/wangf3014/SCLIP) and [OpenCLIP](https://github.com/mlfoundations/open_clip). Thanks for their excellent works.
+This project is based on [NACLIP](https://github.com/sinahmr/NACLIP), [SCLIP](https://github.com/wangf3014/SCLIP), [ClearCLIP](https://github.com/mc-lan/ClearCLIP), [CLIP](https://github.com/openai/CLIP) and [OpenCLIP](https://github.com/mlfoundations/open_clip). Thanks for their excellent works.
