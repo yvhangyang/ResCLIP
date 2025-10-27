@@ -120,10 +120,11 @@ This project is based on [NACLIP](https://github.com/sinahmr/NACLIP), [SCLIP](ht
 If you find this project useful, please consider citing:
 
 ```bibtex
-@article{yang2024resclip,
+@inproceedings{yang2025resclip,
   title={ResCLIP: Residual Attention for Training-free Dense Vision-language Inference},
   author={Yang, Yuhang and Deng, Jinhong and Li, Wen and Duan, Lixin},
-  journal={arXiv preprint arXiv:2411.15851},
-  year={2024}
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={29968--29978},
+  year={2025}
 }
 ```
